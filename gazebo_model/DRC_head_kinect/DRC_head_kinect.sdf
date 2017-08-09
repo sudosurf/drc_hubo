@@ -85,7 +85,7 @@
           <depthImageCameraInfoTopicName>streaming_depth_info</depthImageCameraInfoTopicName>
           <pointCloudTopicName>streaming_points</pointCloudTopicName>
           <frameName>camera_link_optical</frameName>
-          <pointCloudCutoff>0.5</pointCloudCutoff>
+          <pointCloudCutoff>0.4</pointCloudCutoff>
 	  <!--Uncomment point cloud cuttoff to limit depth of kinect scans-->
           <!--pointCloudCutoffMax>0.7</pointCloudCutoffMax-->
           <distortionK1>0.00000001</distortionK1>
